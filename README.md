@@ -1,2 +1,2 @@
 # HAPPY GIRLFRIEND'S DAY
-![grad](grad.jpg = 200x200)
+![grad](grad.jpg)
