@@ -10,7 +10,7 @@
 <img src="20220614_172342.jpg" width="200" height="230">
 <img src="20220629_125716.jpg" width="200" height="230">
 #  
-#JUST A LITTLE MORE !!
+# JUST A LITTLE MORE !!
 #
 <img src="20220703_150400.jpg" width="200" height="230">
 <img src="20220703_161039.jpg" width="200" height="230">
