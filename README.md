@@ -1,2 +1,2 @@
 # HAPPY GIRLFRIEND'S DAY
-<img src="grad.jpg" width="200" height="230">
+<img src="grad.jpg" width="200" height="210">
