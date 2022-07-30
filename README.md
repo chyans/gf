@@ -29,7 +29,7 @@
 <img src="Snapchat-486828455.jpg" width="200" height="230">
 <center>
 <a href="https://www.google.com">
-            <button onclick="doSomething()" style="background-color:#333333;color:#00FF00;border-radius:10px">click me!</button>
+            <button onclick="doSomething()" style="background-color:#333333;color:#00FF00;border-radius:10px;width=200;height=200">click me!</button>
         </a>
 </center>
 
