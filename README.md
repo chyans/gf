@@ -27,8 +27,9 @@
 <img src="Screenshot_20220707-224207_WhatsApp.jpg" width="200" height="230">
 <img src="Screenshot_20220711-174115_WhatsApp.jpg" width="200" height="230">
 <img src="Snapchat-486828455.jpg" width="200" height="230">
+<center>
 <a href="https://www.google.com">
-            <button onclick="doSomething()" style="background-color:#333333;color:#00FF00;border-radius:5px">click me!</button>
+            <button onclick="doSomething()" style="background-color:#333333;color:#00FF00;border-radius:10px">click me!</button>
         </a>
-
+</center>
 
